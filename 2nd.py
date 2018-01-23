@@ -1,1 +1,0 @@
-print('First of many glorious assignments')
